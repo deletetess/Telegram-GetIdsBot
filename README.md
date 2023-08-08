@@ -2,6 +2,10 @@
       <img src="https://i.ytimg.com/vi/NGMwl-J8rko/maxresdefault.jpg" width="726">
 </p>
 
+<p align="center">
+   <img src="https://img.shields.io/badge/aiogram-3.0.0rc2-blue" alt="Aiogram Version">
+</p>
+
 ## О проекте
 
 Пример бота на aiogram 3.0.0rc2.<br>
