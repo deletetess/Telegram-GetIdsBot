@@ -9,7 +9,7 @@
 
 ## Documentation
 
-<b>1.</b> Создать <code>.env</b> файл в корне.
+<b>1.</b> Создать <code>.env</code> файл в корне.
 <b>2.</b> В <code>.env</b> файле добавить <code>BOT_TOKEN=</code> после равно ввести токен.
 <b>3.</b> Установите requirements.txt (<code>pip install -r requirements.txt</code>)
 <b>4.</b> И бот готов к использованию!
