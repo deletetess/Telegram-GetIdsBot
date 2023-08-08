@@ -14,11 +14,11 @@
 ## Установка
 ### Настройка:
 
-- **-** **`Создать .env`** - Создать `.env` файл в корне;
+- **-** Создать `.env` файл в корне;
 
-- **-** **`Добавить BOT_TOKEN`** - В `.env` файле добавить `BOT_TOKEN=` и после равно ввести токен;
+- **-** В `.env` файле добавить `BOT_TOKEN=` и после равно ввести токен;
 
-- **-** **`Установить requirements.txt`** - Установите `requirements.txt` (`pip install -r requirements.txt`);
+- **-** Установите `requirements.txt` (`pip install -r requirements.txt`);
 
 ### Запуск:
 - В консоли вводим `python bot.py`
