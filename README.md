@@ -21,4 +21,5 @@
 - **-** **`Установить requirements.txt`** - Установите `requirements.txt` (`pip install -r requirements.txt`);
 
 ### Запуск:
-- В консоли введите `python bot.py`<br>Вводим команду `/start` и наслаждаемся работой бота!
+- В консоли вводим `python bot.py`
+- Переходим в бота и вводим команду `/start`. Наслаждаемся работой бота!
