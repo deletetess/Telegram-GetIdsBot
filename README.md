@@ -2,12 +2,12 @@
       <img src="https://i.ytimg.com/vi/NGMwl-J8rko/maxresdefault.jpg" width="726">
 </p>
 
-## About
+## О проекте
 
 Пример бота на aiogram 3.0.0rc2.<br>
 Суть бота: показывать ID чатов пользователей, каналов и групп.
 
-## Documentation
+## Установка
 
 <b>1.</b> Создать <code>.env</code> файл в корне.<br>
 <b>2.</b> В <code>.env</code> файле добавить <code>BOT_TOKEN=</code> после равно ввести токен.<br>
